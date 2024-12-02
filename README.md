@@ -1,4 +1,4 @@
-# chat-verse
+# Talknest
 
 Some Features:
 
@@ -6,10 +6,8 @@ Some Features:
 -   🎃 Authentication && Authorization with JWT
 -   👾 Real-time messaging with Socket.io
 -   🚀 Online user status (Socket.io and React Context)
--   👌 Global state management with Zustand
 -   🐞 Error handling both on the server and on the client
--   ⭐ At the end Deployment like a pro for FREE!
--   ⏳ And much more!
+
 
 ### Setup .env file
 
@@ -20,7 +18,7 @@ JWT_SECRET=...
 NODE_ENV=...
 ```
 
-### Build the app
+
 
 ```shell
 npm run build
