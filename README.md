@@ -29,3 +29,11 @@ npm run build
 ```shell
 npm start
 ```
+
+
+
+![Alt text for the image](images/image.png)
+
+
+
+
